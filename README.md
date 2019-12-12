@@ -28,7 +28,7 @@
     BRE XU MINWEN F 62_20180604_153248_image.jpg
     ……
 
-### evaluation。py
+### evaluation.py
 * 执行`evaluation.py`,要求输入目标文件夹与`main.py`中输出文件夹的名称
 #### Input
     --target_dir: train_origin
